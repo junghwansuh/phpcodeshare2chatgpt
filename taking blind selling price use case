@@ -1,0 +1,5 @@
+<condition 1>. We have a blind unit price (k: 15,000 won) per 1㎡ of unit area.
+
+<condition 2.> We will receive 'width: val1' and 'height: val2' separately from the customer and obtain the total selling price (P).
+
+<condition 3>. In other words, if customer enters 'width: val1' and 'height: val2' at once, we can easily obtain 'the area (A)' by multiplying the blind unit price per unit area in <condition1>. However, we need a way to solve the problem because customer cannot escape the conditions in <condition 2>.
